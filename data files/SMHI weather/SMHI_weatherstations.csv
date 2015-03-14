@@ -1,0 +1,205 @@
+Region;Stationsnamn;Stationsnummer;Latitud;Longitud;Aktiv
+Stockholm;Adelsö A;97280;59.36;17.52;1
+Norrbotten;Arjeplog A;167710;66.05;17.91;1
+Norrbotten;Arvidsjaur A;159880;65.60;19.27;1
+Värmland;Arvika A;92410;59.67;12.64;1
+Västra Götaland;Axstål Mo;84340;58.57;14.57;1
+Skåne;Barkåkra;62180;56.29;12.85;1
+Västerbotten;Bjuröklubb A;151280;64.48;21.58;1
+Värmland;Blomskog A;92130;59.22;12.08;1
+Jämtland;Blåhammaren A;132110;63.19;12.18;1
+Norrbotten;Boden Mo;161940;65.82;21.64;1
+Dalarna;Borlänge Flygplats;105260;60.43;15.51;1
+Värmland;Brattmon V;102390;60.76;12.77;1
+Blekinge;Bredåkra;65160;56.26;15.27;1
+Västernorrland;Brämön A;127130;62.22;17.74;1
+Västerbotten;Buresjön A;157870;65.56;17.86;1
+Jämtland;Börtnan A;123460;62.76;13.85;1
+Värmland;Daglösen A;94390;59.66;14.18;1
+Gävleborg;Delsbo A;116490;61.83;16.54;1
+Jämtland;Dravagen A;123060;62.09;13.61;1
+Gävleborg;Edsbyn A;115220;61.36;15.72;1
+Gävleborg;Eggegrund A;107440;60.73;17.56;1
+Uppsala;Enköping Mo;97370;59.66;17.11;1
+Västra Götaland;Erikstad-Bergarud V;82350;58.60;12.41;1
+Södermanland;Eskilstuna Mo;96190;59.35;16.71;1
+Skåne;Falsterbo;52230;55.38;12.82;1
+Skåne;Falsterbo A;52240;55.38;12.82;1
+Uppsala;Films Kyrkby A;107140;60.24;17.91;1
+Jämtland;Flatruet V;122430;62.73;12.73;1
+Södermanland;Floda A;96040;59.06;16.40;1
+Västerbotten;Fredrika A;148040;64.08;18.37;1
+Jämtland;Frösön;134110;63.20;14.49;1
+Gotland;Fårösund Ar A;78550;57.92;18.96;1
+Jämtland;Föllinge A;134410;63.68;14.61;1
+Västerbotten;Gielas A;155790;65.33;15.07;1
+Kalmar;Gladhammar A;76420;57.71;16.46;1
+Gotland;Gotska Sandön A;89230;58.39;19.20;1
+Jämtland;Gubbhögen A;145130;64.22;15.56;1
+Västerbotten;Gunnarn A;147560;65.01;17.70;1
+Värmland;Gustavsfors A;103100;60.15;13.80;1
+Örebro;Gårdsjö A;84520;58.88;14.39;1
+Jämtland;Gäddede A;144310;64.51;14.22;1
+Norrbotten;Gällivare A;180760;67.14;20.65;1
+Gävleborg;Gävle A;107420;60.72;17.16;1
+Västra Götaland;Göteborg A;71420;57.70;11.98;1
+Jönköping;Hagshults Flygplats;74180;57.29;14.14;1
+Skåne;Hallands Väderö A;62260;56.45;12.55;1
+Jämtland;Hallhåxåsen A;135460;63.77;15.33;1
+Gävleborg;Hamra A;114410;61.66;14.99;1
+Halland;Hanarp V;62530;56.86;12.66;1
+Blekinge;Hanö A;64020;56.01;14.85;1
+Norrbotten;Haparanda A;163960;65.82;24.12;1
+Östergötland;Harstena A;87140;58.25;17.01;1
+Skåne;Helsingborg A;62040;56.03;12.77;1
+Norrbotten;Hemavan Flygplats;155970;65.81;15.09;1
+Västerbotten;Hemavan Skorvfjället;155960;65.78;15.06;1
+Västernorrland;Hemling A;138390;63.65;18.55;1
+Gotland;Hoburg A;68560;56.92;18.15;1
+Västerbotten;Holmön A;140460;63.81;20.87;1
+Östergötland;Horn A;75520;57.89;15.87;1
+Jämtland;Hoting A;146050;64.09;16.24;1
+Västra Götaland;Hud V;81370;58.66;11.42;1
+Jämtland;Hunge A;125440;62.75;15.09;1
+Skåne;Hunnestorp V;62250;56.40;12.94;1
+Stockholm;Hårsfjärden;98040;59.07;18.12;1
+Västra Götaland;Hällum A;83190;58.32;13.04;1
+Skåne;Hästveda Mo;63160;56.28;13.94;1
+Västerbotten;Hökmarksberget V;151240;64.44;21.28;1
+Skåne;Hörby A;53530;55.86;13.67;1
+Dalarna;Idre Fjäll A;112540;61.89;12.86;1
+Dalarna;Idre-Storbo V;112530;61.87;12.30;1
+Norrbotten;Jokkmokk Flygplats Mo;170860;66.50;20.13;1
+Västernorrland;Junsele A;136410;63.68;16.95;1
+Norrbotten;Jäkkvik V;167800;66.32;17.09;1
+Västerbotten;Järnäsklubb A;139260;63.44;19.68;1
+Jönköping;Jönköpings Flygplats;74460;57.75;14.07;1
+Kalmar;Kalmar Flygplats;66420;56.68;16.29;1
+Norrbotten;Karesuando A;192840;68.44;22.45;1
+Västra Götaland;Karlsborg Mo;84310;58.52;14.51;1
+Blekinge;Karlskrona-Söderstj. Mo;65090;56.15;15.59;1
+Värmland;Karlstad Flygplats;93220;59.44;13.34;1
+Norrbotten;Katterjåkk;188820;68.42;18.17;1
+Norrbotten;Katterjåkk A;188850;68.42;18.17;1
+Uppsala;Kerstinbo A;106160;60.27;16.98;1
+Örebro;Kettstaka A;85460;58.72;15.03;1
+Örebro;Kilsbergen-Suttarboda A;94190;59.30;14.90;1
+Norrbotten;Kiruna Flygplats;180940;67.83;20.34;1
+Örebro;Kloten A;95540;59.87;15.26;1
+Jämtland;Klövsjöhöjden A;124300;62.50;14.16;1
+Östergötland;Kolmården-Strömsfors A;86420;58.69;16.31;1
+Jämtland;Korsvattnet A;133500;63.84;13.50;1
+Kronoberg;Kosta Mo;65510;56.84;15.47;1
+Skåne;Kristianstad V;54990;56.02;14.10;1
+Västra Götaland;Kroppefjäll-Granan A;82360;58.61;12.20;1
+Jämtland;Krångede A;136090;63.16;16.17;1
+Gävleborg;Kuggören A;117430;61.70;17.52;1
+Östergötland;Kvarn Mo;85390;58.63;15.44;1
+Norrbotten;Kvikkjokk-Årrenjarka A;167990;66.89;18.02;1
+Västra Götaland;Kymbo V;83040;58.08;13.78;1
+Norrbotten;Lakaträsk A;171790;66.28;21.13;1
+Stockholm;Landsort A;87440;58.74;17.87;1
+Västra Götaland;Landvetter Flygplats;72420;57.68;12.29;1
+Norrbotten;Latnivaara A;180770;67.26;20.27;1
+Norrbotten;Lillviken-Roparudden V;166940;66.49;16.42;1
+Kronoberg;Ljungby A;63510;56.85;13.88;1
+Norrbotten;Luleå Flygplats;162860;65.54;22.12;1
+Västernorrland;Lungö A;128390;62.64;18.09;1
+Västerbotten;Lycksele A;148330;64.55;18.72;1
+Östergötland;Malexander A;85050;58.07;15.24;1
+Östergötland;Malmslätt;85240;58.40;15.53;1
+Skåne;Malmö Aut;52350;55.60;12.98;1
+Dalarna;Malung A;103420;60.68;13.71;1
+Västerbotten;Malå-Brännan A;158740;65.15;18.60;1
+Jämtland;Mattmar V;133180;63.31;13.88;1
+Norrbotten;Mierkenis A;166910;66.68;16.11;1
+Dalarna;Mora A;104580;60.96;14.51;1
+Kalmar;Målilla A;75250;57.38;15.80;1
+Västra Götaland;Måseskär A;81050;58.09;11.33;1
+Norrbotten;Naimakka A;191910;68.68;21.53;1
+Norrbotten;Nattavaara A;170930;66.75;20.93;1
+Västra Götaland;Naven A;83420;58.70;13.11;1
+Norrbotten;Nedre Soppero V;191720;68.04;21.75;1
+Halland;Nidingen A;71190;57.30;11.91;1
+Norrbotten;Nikkaluokta A;179960;67.85;19.03;1
+Västra Götaland;Nordkoster A;81540;58.89;11.01;1
+Gävleborg;Norrberg-Norrhög V;125170;62.26;15.67;1
+Östergötland;Norrköping-SMHI;86340;58.58;16.15;1
+Västerbotten;Norsjö A;149560;64.93;19.38;1
+Norrbotten;Paharova A;172940;66.81;22.34;1
+Norrbotten;Pajala A;183750;67.20;23.40;1
+Norrbotten;Parkalompolo A;182910;67.73;22.83;1
+Västerbotten;Petisträsk A;149340;64.57;19.70;1
+Värmland;Pålgrunden A;83450;58.76;13.16;1
+Norrbotten;Rensjön A;189720;68.07;19.84;1
+Västerbotten;Risträsk V;147420;64.73;17.40;1
+Norrbotten;Ritsem A;177930;67.73;17.47;1
+Gotland;Roma V;78290;57.54;18.43;1
+Skåne;Rynge V;53180;55.47;13.67;1
+Västra Götaland;Rångedala A;73480;57.78;13.17;1
+Norrbotten;Rödkallen A;162790;65.31;22.37;1
+Norrbotten;Rönnskär;161710;65.03;21.57;1
+Norrbotten;Saittarova A;182810;67.34;22.23;1
+Västmanland;Sala A;96560;59.91;16.69;1
+Västerbotten;Saxnäs V;145580;64.97;15.38;1
+Västernorrland;Skagsudde A;139120;63.19;19.02;1
+Västerbotten;Skellefteå Flygplats;151380;64.62;21.07;1
+Skåne;Skillinge A;54290;55.49;14.32;1
+Stockholm;Stavsnäs A;98160;59.30;18.70;1
+Västerbotten;Stekenjokk A;154730;65.09;14.51;1
+Stockholm;Stockholm;98210;59.34;18.06;1
+Stockholm;Stockholm-Arlanda;97400;59.63;17.95;1
+Stockholm;Stockholm-Bromma;97200;59.35;17.95;1
+Norrbotten;Stora Sjöfallet A;178860;67.50;18.29;1
+Dalarna;Stora Spånsberget A;105220;60.38;15.14;1
+Jämtland;Storlien-Storvallen A;132170;63.28;12.12;1
+Norrbotten;Storön A;163900;65.70;23.10;1
+Skåne;Sturup;53300;55.54;13.37;1
+Västernorrland;Sundsvall-Råsta V;127230;62.43;17.34;1
+Västernorrland;Sundsvalls Flygplats;127310;62.52;17.44;1
+Värmland;Sunne A;93520;59.86;13.12;1
+Stockholm;Svanberga A;98490;59.83;18.63;1
+Jämtland;Sveg A;124030;62.05;14.41;1
+Stockholm;Svenska Högarna;99270;59.44;19.51;1
+Stockholm;Svenska högarna A;99280;59.44;19.51;1
+Jämtland;Sylarna A;132030;63.04;12.28;1
+Västra Götaland;Såtenäs;82260;58.44;12.71;1
+Dalarna;Sälen-Högfjället V;113070;61.16;13.11;1
+Norrbotten;Sävast V;161920;65.75;21.76;1
+Stockholm;Söderarm A;99450;59.75;19.41;1
+Norrbotten;Tarfala A;178970;67.91;18.61;1
+Norrbotten;Tjåkaape Mo;169790;66.30;19.20;1
+Jönköping;Tomtabacken A;74300;57.50;14.47;1
+Västernorrland;Torpshammar A;126290;62.49;16.28;1
+Halland;Torup A;63590;56.95;13.06;1
+Stockholm;Tullinge A;97100;59.18;17.91;1
+Jämtland;Tännäs A;122260;62.45;12.67;1
+Halland;Ullared A;72090;57.11;12.78;1
+Västerbotten;Umeå Flygplats;140480;63.79;20.29;1
+Uppsala;Uppsala Aut;97510;59.86;17.63;1
+Uppsala;Uppsala Flygplats;97530;59.90;17.59;1
+Blekinge;Utklippan A;55570;55.95;15.70;1
+Norrbotten;Vajmat V;169860;66.51;19.67;1
+Norrbotten;Vidsel Mo;160970;65.88;20.15;1
+Västerbotten;Vilhelmina A;146350;64.58;16.84;1
+Västra Götaland;Vinga A;71380;57.63;11.61;1
+Gotland;Visby Flygplats;78400;57.66;18.34;1
+Jönköping;Visingsö A;84050;58.10;14.41;1
+Västra Götaland;Väderöarna A;81350;58.58;11.07;1
+Västernorrland;Västmarkum A;138070;63.13;18.26;1
+Kronoberg;Växjö A;64510;56.85;14.83;1
+Norrbotten;Ylinenjärvi A;173900;66.62;23.47;1
+Gävleborg;Åmot A;106570;60.96;16.43;1
+Jämtland;Åre-Björnänge V;133250;63.37;13.16;1
+Västra Götaland;Åsbräcka-Torpabron V;82090;58.20;12.15;1
+Västerbotten;Åsele A;147090;64.17;17.32;1
+Dalarna;Älvdalen A;114140;61.25;14.04;1
+Norrbotten;Älvsbyn A;161910;65.67;21.07;1
+Kalmar;Ölands Norra Udde A;77210;57.37;17.10;1
+Kalmar;Ölands Södra Udde A;66110;56.20;16.40;1
+Kalmar;Ölandsbron V;66400;56.67;16.46;1
+Örebro;Örebro A;95130;59.23;15.05;1
+Västernorrland;Örnsköldsviks Flygplats;138240;63.41;18.98;1
+Uppsala;Örskär A;108320;60.53;18.38;1
+Gotland;Östergarnsholm A;78280;57.44;18.99;1
+Norrbotten;Överkalix-Svartbyn A;172770;66.26;22.85;1
