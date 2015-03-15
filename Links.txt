@@ -1,0 +1,8 @@
+Application:
+https://danbro.shinyapps.io/windapp/
+
+Presentation:
+http://rpubs.com/danbro/windapp
+
+Github repository:
+https://github.com/danbro/hack4sweden
