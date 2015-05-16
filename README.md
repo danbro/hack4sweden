@@ -1,4 +1,4 @@
-# hack4sweden
+# hack4sweden2015
 An application to determine the regional wind power potential in Sweden. 
 This application was developped by Daniel A Brodén, Claes Sandels and Nicolae Doban for the Hack for Sweden competition in March 14-15, 2015.
 
