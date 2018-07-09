@@ -23,9 +23,8 @@ R markdown files:
 - PoweRpresentation.Rpres (code for the application web presentation)
 - PoweRpresentation.md (markdown for the application web presentation)
 
-
-
-
+Go to application:
+https://danbro.shinyapps.io/windapp/
 
 
 
